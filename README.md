@@ -24,10 +24,9 @@ The project was created using Microsoft Excel by organizing and analyzing data, 
 
 | File | Description |
 |---|---|
-| your-dashboard.xlsx | Completed Excel dashboard |
-| dashboard-image.png | Preview of the final dashboard |
-| dashboard-sketch.png | Initial dashboard layout |
-| data.png | Preview of the source data |
+| DASHBOARD 1.xlsx | Completed Excel dashboard |
+| Dashboard.png | Preview of the final dashboard |
+| Data.png | Preview of the source data |
 | README.md | Project documentation |
 
 
