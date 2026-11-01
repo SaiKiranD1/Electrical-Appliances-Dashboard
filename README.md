@@ -22,6 +22,7 @@ The project was created using Microsoft Excel by organizing and analyzing data, 
 - **Performance Tracking:** Displays important metrics and key performance indicators (KPIs).
 - **Decision Support:** Helps users understand data and make informed decisions.
 
+## Files Included
 | File | Description |
 |---|---|
 | DASHBOARD 1.xlsx | Completed Excel dashboard |
