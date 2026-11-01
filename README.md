@@ -3,4 +3,4 @@
 
 ## Project Preview
 
-![Project Preview](dashboard-image.png)
+![Project Preview](Dashboard.png)
