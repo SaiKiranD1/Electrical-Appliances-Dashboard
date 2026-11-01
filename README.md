@@ -11,7 +11,7 @@ This project is an Excel dashboard designed to analyze and visualize data in an 
 ## From Data to Dashboard
 The project was created using Microsoft Excel by organizing and analyzing data, applying data-cleaning techniques, and creating charts and visualizations. An interactive dashboard was designed to present key insights and trends in a clear and visually appealing way. The final dashboard helps users understand the data and make informed decisions.
 
-### Source Data
+## Source Data
 
 ![Source Data](Data.png)
 
@@ -25,7 +25,7 @@ The project was created using Microsoft Excel by organizing and analyzing data, 
 ## Files Included
 | File | Description |
 |---|---|
-| DASHBOARD 1.xlsx | Completed Excel dashboard |
+| DASHBOARD.xlsx | Completed Excel dashboard |
 | Dashboard.png | Preview of the final dashboard |
 | Data.png | Preview of the source data |
 | README.md | Project documentation |
@@ -37,7 +37,7 @@ The project was created using Microsoft Excel by organizing and analyzing data, 
 3. Navigate to the dashboard worksheet.
 4. Use the available filters and slicers to explore the results.
 
-   [Download the Excel Dashboard](DASHBOARD 1.xlsx)
+[Download the Excel Dashboard](DASHBOARD.xlsx)
 
 
 
