@@ -10,3 +10,7 @@ This project is an Excel dashboard designed to analyze and visualize data in an 
 
 ## From Data to Dashboard
 The project was created using Microsoft Excel by organizing and analyzing data, applying data-cleaning techniques, and creating charts and visualizations. An interactive dashboard was designed to present key insights and trends in a clear and visually appealing way. The final dashboard helps users understand the data and make informed decisions.
+
+### Source Data
+
+![Source Data](data.png)
