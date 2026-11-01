@@ -4,3 +4,6 @@
 ## Project Preview
 
 ![Project Preview](Dashboard.png)
+
+## Project Overview
+This project is an Excel dashboard designed to analyze and visualize data in an easy-to-understand format. It presents key information through charts, graphs, and performance indicators. Users can explore data trends, identify patterns, and gain valuable insights to support better decision-making.
