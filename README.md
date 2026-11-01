@@ -14,3 +14,14 @@ The project was created using Microsoft Excel by organizing and analyzing data, 
 ### Source Data
 
 ![Source Data](Data.png)
+
+## Dashboard Features
+- **Data Visualization:** Presents data using charts and graphs.
+- **Interactive Dashboard:** Provides a clear and user-friendly view of data.
+- **Data Analysis:** Helps identify trends, patterns, and key insights.
+- **Performance Tracking:** Displays important metrics and key performance indicators (KPIs).
+- **Decision Support:** Helps users understand data and make informed decisions.
+
+
+
+
